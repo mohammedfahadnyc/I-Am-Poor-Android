@@ -3,4 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="Crayola">#00CCCC</color>
+    <color name="Jazberry2">#A50B5E</color>
+    <color name="bluegreen">#0095B7</color>
 </resources>
